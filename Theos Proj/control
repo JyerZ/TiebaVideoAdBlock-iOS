@@ -1,7 +1,7 @@
 Package: dev.jyer.tiebavideoadblock
 Name: TiebaVideoAdBlock
 Depends: mobilesubstrate
-Version: 2.1.0
+Version: 2.2.0
 Architecture: iphoneos-arm
 Description: Block video advertisement autoplay in BaiduTieba
 Maintainer: Jyer
